@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "64f8a6e66d77372759e504da"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8ab726d77372759e504dc"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8adebd89f0dd0ab01c898"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8ae829bbe179cc7c14e71"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8c5ef21982da71431820d"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8c7d1350fedbafef83bc4"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG123",
+  "transactionId": "2HHY45294",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Ok",
+  "__v": 0,
+  "results": "StatusCompleted Ok",
+  "endTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8e45f3013de746112013c"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG124",
+  "transactionId": "2HHY45294",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8e96ec9f1d5d803e315e0"
+  },
+  "endTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "results": "Completed successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8ebcb7e850f9ecd68c01b"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG124-RAJESH",
+  "transactionId": "2HHY45296",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "__v": 0,
+  "endTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "results": "Service completed successfully."
+},
+{
+  "_id": {
+    "$oid": "64f8f5b57e850f9ecd68c020"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG124-RAJESH",
+  "transactionId": "2HHY45300",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "__v": 0,
+  "endTime": {
+    "$date": "2023-09-01T14:56:59.301Z"
+  },
+  "results": "Service Rajesh completed successfully."
+},
+{
+  "_id": {
+    "$oid": "6508692325447563b543bef9"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG124-VASIL",
+  "transactionId": "2HHY45900",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-15T14:56:59.301Z"
+  },
+  "status": "Completed",
+  "__v": 0,
+  "endTime": {
+    "$date": "2023-09-18T15:56:59.301Z"
+  },
+  "results": "Service processing complete!"
+},
+{
+  "_id": {
+    "$oid": "65537254302ee6a3f0649acb"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "0CA345XYBFGCG124-JAKE",
+  "transactionId": "2HHY45990",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-15T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65537578342b9fcb3558f6b7"
+  },
+  "version": "1.0",
+  "target": "eventProcessorAudit",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "ROBINGHOSH",
+  "transactionId": "2HHY45991",
+  "eventType": "DevStudio-REDIS",
+  "eventUri": "/CacheService/clearCache",
+  "async": true,
+  "startTime": {
+    "$date": "2023-09-15T14:56:59.301Z"
+  },
+  "status": "In-Progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554ea250b71c7a9bccd9716"
+  },
+  "version": "1.0",
+  "target": "terraform-azurerm-postgresql/examples",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "JayK",
+  "transactionId": "2HHY45991",
+  "eventType": "DevStudio-TF-Validation",
+  "eventUri": "/codegen/validation",
+  "async": false,
+  "startTime": {
+    "$date": "2023-09-15T14:56:59.301Z"
+  },
+  "endTime": {
+    "$date": "2023-09-15T14:57:06.302Z"
+  },
+  "status": "Complete",
+  "results": "200 Success, main.tf is good. 5 variables in tfvars require substitution.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554ed360b71c7a9bccd9719"
+  },
+  "version": "1.0",
+  "target": "terraform-azurerm-mysql/examples",
+  "tenantId": "08456FG78123HG",
+  "subscriptionId": "JayK",
+  "transactionId": "2HHY45992",
+  "eventType": "DevStudio-TF-Validation",
+  "eventUri": "/codegen/validation",
+  "async": false,
+  "startTime": {
+    "$date": "2023-09-15T14:56:59.301Z"
+  },
+  "endTime": {
+    "$date": "2023-09-15T14:57:06.302Z"
+  },
+  "status": "Complete",
+  "results": "200 Success, main.tf is good. 3 variables in tfvars require substitution.",
+  "__v": 0
+}]
