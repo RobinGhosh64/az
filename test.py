@@ -1,3 +1,10 @@
+# Generate a private key
+#openssl genrsa -out private_key.pem 2048
+# Extract the public key
+#openssl req -new -x509 -key private_key.pem -out public.pem -subj '/CN=SandboxTester'
+# Get the fingerprint
+#openssl x509 -noout -fingerprint -sha1 -inform pem -in public.pem
+
 import os
 import json
 import time
